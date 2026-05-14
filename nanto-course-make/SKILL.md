@@ -306,7 +306,7 @@ Images: NOT YET GENERATED
 Next steps:
   1. /nanto-course-images CXXX   — generate the images
   2. /nanto-course-qa CXXX       — full QA check before upload
-  3. Upload zips to LearnWorlds (manual — no API available)
+  3. /nanto-learnworlds CXXX     — upload zips and publish in LearnWorlds
 ═══════════════════════════════════════════════════════
 ```
 
